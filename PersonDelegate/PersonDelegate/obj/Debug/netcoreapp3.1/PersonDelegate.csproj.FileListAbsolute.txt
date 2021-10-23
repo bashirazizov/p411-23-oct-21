@@ -1,0 +1,14 @@
+C:\Users\Bashir Azizov\Desktop\PersonDelegate\PersonDelegate\bin\Debug\netcoreapp3.1\PersonDelegate.exe
+C:\Users\Bashir Azizov\Desktop\PersonDelegate\PersonDelegate\bin\Debug\netcoreapp3.1\PersonDelegate.deps.json
+C:\Users\Bashir Azizov\Desktop\PersonDelegate\PersonDelegate\bin\Debug\netcoreapp3.1\PersonDelegate.runtimeconfig.json
+C:\Users\Bashir Azizov\Desktop\PersonDelegate\PersonDelegate\bin\Debug\netcoreapp3.1\PersonDelegate.runtimeconfig.dev.json
+C:\Users\Bashir Azizov\Desktop\PersonDelegate\PersonDelegate\bin\Debug\netcoreapp3.1\PersonDelegate.dll
+C:\Users\Bashir Azizov\Desktop\PersonDelegate\PersonDelegate\bin\Debug\netcoreapp3.1\PersonDelegate.pdb
+C:\Users\Bashir Azizov\Desktop\PersonDelegate\PersonDelegate\obj\Debug\netcoreapp3.1\PersonDelegate.csproj.AssemblyReference.cache
+C:\Users\Bashir Azizov\Desktop\PersonDelegate\PersonDelegate\obj\Debug\netcoreapp3.1\PersonDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bashir Azizov\Desktop\PersonDelegate\PersonDelegate\obj\Debug\netcoreapp3.1\PersonDelegate.AssemblyInfoInputs.cache
+C:\Users\Bashir Azizov\Desktop\PersonDelegate\PersonDelegate\obj\Debug\netcoreapp3.1\PersonDelegate.AssemblyInfo.cs
+C:\Users\Bashir Azizov\Desktop\PersonDelegate\PersonDelegate\obj\Debug\netcoreapp3.1\PersonDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Bashir Azizov\Desktop\PersonDelegate\PersonDelegate\obj\Debug\netcoreapp3.1\PersonDelegate.dll
+C:\Users\Bashir Azizov\Desktop\PersonDelegate\PersonDelegate\obj\Debug\netcoreapp3.1\PersonDelegate.pdb
+C:\Users\Bashir Azizov\Desktop\PersonDelegate\PersonDelegate\obj\Debug\netcoreapp3.1\PersonDelegate.genruntimeconfig.cache
